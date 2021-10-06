@@ -26,3 +26,20 @@ You would just put in the tab to fill in the files like this:
    server.lua-server
    client.lua-client
 ```
+
+## Conclusion
+After completing the above process, the "application" will generate a meta.xml with the formatted information. In this way:
+
+```xml
+<meta>
+	<script src="config.lua type="shared" cache="false" />
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" cache="false" />
+</meta>
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Credits
+Full credits to MisticStore
