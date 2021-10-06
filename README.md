@@ -1,9 +1,9 @@
 # STR_MetaCompile
 
-### Demonstration
+## Demonstration
 ![Demonstracaoo](demo.png)
 
-### Utilization
+## Utilization
 Just specify which files in the folder are server and which are client or shared.
 Assuming these are these files:
 ```
