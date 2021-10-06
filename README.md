@@ -32,7 +32,7 @@ After completing the above process, the "application" will generate a meta.xml w
 
 ```xml
 <meta>
-	<script src="config.lua type="shared" cache="false" />
+	<script src="config.lua" type="shared" cache="false" />
 	<script src="server.lua" type="server" />
 	<script src="client.lua" type="client" cache="false" />
 </meta>
